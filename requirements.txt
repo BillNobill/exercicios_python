@@ -1,0 +1,3 @@
+calcular_dv_rg
+matplotlib
+urllib
